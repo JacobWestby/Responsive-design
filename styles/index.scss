@@ -1,0 +1,14 @@
+@import 'desktop-nav';
+@import 'desktop-header';
+@import 'tablet-nav';
+@import 'tablet-header';
+@import 'phone-nav';
+@import 'phone-header';
+
+body {
+  height: 100vh;
+  background-color: #000;
+  width: 100%;
+  margin: 0 auto;
+}
+
